@@ -1,0 +1,7 @@
+
+require('./bootstrap');
+// ...
+
+require("sweetalert");
+
+// ...
